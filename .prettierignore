@@ -1,0 +1,9 @@
+node_modules
+dist
+.vinext
+.sites-runtime
+.wrangler
+outputs
+pnpm-lock.yaml
+scripts/vite
+scripts/connector-preview
